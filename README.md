@@ -1,1 +1,2 @@
-Just created my first repo and it will get better with time!
+This repo basically cntains two files which I have uploaded using the Git Bash and the commands which were taught in the tutorials.
+This is going to get better!!
